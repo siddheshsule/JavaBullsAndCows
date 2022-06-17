@@ -5,7 +5,7 @@
  * The player is supposed to guess the code.
  * If the guessed character is anywhere in the secret code, its termed as a 'cow'
  * and if the character is in the secret code and has a same place value, it is termed as a 'bull'!
- * The program catches all the exceptions and doesnt through any error!
+ * The program catches all the exceptions and does'nt crash under any error!
  * Sounds interesting, is'nt it?..Give it a try....
  * ************************************************************************************************
  * @author: Siddhesh Sule, Radolfzell, Germany.
