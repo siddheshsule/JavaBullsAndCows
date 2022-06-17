@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Bulls and Cows/task" />
+            <option value="$PROJECT_DIR$/Bulls and Cows/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Bulls and Cows/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Bulls and Cows/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Bulls and Cows/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Bulls and Cows/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Bulls and Cows/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Catching some exceptions" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Converting and multiplying" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Determine a block for handling exceptions" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Reading a file" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/String to double conversion" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Try-catch statements" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Distance" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Existing floating-point types" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Boxes are not just objects" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Correct the usage of non-generic class" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Initialize an object of a generic class" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Reusing code with Object" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/What is a type" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/BadRequestException" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Base class" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Correct the program" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Creating instances" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Declaring generic classes" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Declaring generic classes - 2" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Generic parameter values" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Type parameter inside a class body" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Class instantiation" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Employee" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Entanglement" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Movie" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Suppose, you have a class" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Random/Choose a correct invocation" />
+            <option value="$PROJECT_DIR$/Topics/Random/Gaussian random numbers" />
+            <option value="$PROJECT_DIR$/Topics/Random/Generate random numbers" />
+            <option value="$PROJECT_DIR$/Topics/Random/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The keyword super/Bank account" />
+            <option value="$PROJECT_DIR$/Topics/The keyword super/Employees" />
+            <option value="$PROJECT_DIR$/Topics/The keyword super/Theory" />
+            <option value="$PROJECT_DIR$/Topics/What are collections/Accessing element of a collection" />
+            <option value="$PROJECT_DIR$/Topics/What are collections/Initialize a collection" />
+            <option value="$PROJECT_DIR$/Topics/What are collections/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

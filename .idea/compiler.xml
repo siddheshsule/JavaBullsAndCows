@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-classes-java.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-reports-tests.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-test-results.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-tmp.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Exception_handling-Catching_some_exceptions.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Exception_handling-Converting_and_multiplying.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Exception_handling-Determine_a_block_for_handling_exceptions.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Exception_handling-Reading_a_file.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Exception_handling-String_to_double_conversion.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Exception_handling-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Exception_handling-Try-catch_statements.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Floating-point_types-Distance.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Floating-point_types-Existing_floating-point_types.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Floating-point_types-Statements.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Floating-point_types-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Generics_and_Object-Boxes_are_not_just_objects.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Generics_and_Object-Correct_the_usage_of_non-generic_class.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Generics_and_Object-Initialize_an_object_of_a_generic_class.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Generics_and_Object-Reusing_code_with_Object.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Generics_and_Object-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Generics_and_Object-What_is_a_type.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Hierarchy_of_exceptions-BadRequestException.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Hierarchy_of_exceptions-Base_class.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Hierarchy_of_exceptions-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Introduction_to_generic_programming-Correct_the_program.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Introduction_to_generic_programming-Creating_instances.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Introduction_to_generic_programming-Declaring_generic_classes.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Introduction_to_generic_programming-Declaring_generic_classes_-_2.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Introduction_to_generic_programming-Generic_parameter_values.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Introduction_to_generic_programming-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Introduction_to_generic_programming-Type_parameter_inside_a_class_body.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Multiple_constructors-Class_instantiation.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Multiple_constructors-Employee.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Multiple_constructors-Entanglement.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Multiple_constructors-Movie.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Multiple_constructors-Suppose,_you_have_a_class.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Multiple_constructors-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Random-Choose_a_correct_invocation.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Random-Gaussian_random_numbers.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Random-Generate_random_numbers.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Random-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-The_keyword_super-Bank_account.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-The_keyword_super-Employees.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-The_keyword_super-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-What_are_collections-Accessing_element_of_a_collection.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-What_are_collections-Initialize_a_collection.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-What_are_collections-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
